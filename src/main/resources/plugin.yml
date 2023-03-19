@@ -1,0 +1,6 @@
+name: BlockAdder
+version: 1.0
+description: ChunkCopy
+author: Ste3et_C0st
+main: de.Ste3et_C0st.BlockAdder.BlockAdderMain
+api-version: 1.14
